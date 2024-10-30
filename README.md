@@ -7,7 +7,7 @@ Here's the updated README with the alternate hosting link added:
 Welcome to the **Animated Login Form** project! This modern, responsive login form offers a smooth user experience with elegant animations, customizable design, and easy integration for any web project.
 
 
-🔗 [Live Demo 2](https://animated-login-form-two.vercel.app/)
+🔗 [Live Demo](https://animated-login-form-two.vercel.app/)
 
 ## 📋 Project Overview
 
