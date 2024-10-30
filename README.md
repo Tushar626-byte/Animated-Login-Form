@@ -56,11 +56,6 @@ Integrate this login form into your project by embedding it within your existing
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/Tushar626-byte/Animated-Login-Form/issues).
-
-## 📄 License
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## 🌐 Connect
 
 For more of my work, feel free to check my GitHub [@Tushar626-byte](https://github.com/Tushar626-byte). 
