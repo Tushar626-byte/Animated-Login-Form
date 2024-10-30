@@ -6,7 +6,7 @@ Here's the updated README with the alternate hosting link added:
 
 Welcome to the **Animated Login Form** project! This modern, responsive login form offers a smooth user experience with elegant animations, customizable design, and easy integration for any web project.
 
-![Animated Login Form](https://github.com/Tushar626-byte/Animated-Login-Form/assets/your-image.png) <!-- Replace with an actual image link if available -->
+
 🔗 [Live Demo 2](https://animated-login-form-two.vercel.app/)
 
 ## 📋 Project Overview
